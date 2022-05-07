@@ -1,0 +1,12 @@
+F:\Coding\Src\C#\APP_USER\App_User_Home\Domain\bin\Debug\net5.0\Domain.deps.json
+F:\Coding\Src\C#\APP_USER\App_User_Home\Domain\bin\Debug\net5.0\Domain.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Domain\bin\Debug\net5.0\ref\Domain.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Domain\bin\Debug\net5.0\Domain.pdb
+F:\Coding\Src\C#\APP_USER\App_User_Home\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+F:\Coding\Src\C#\APP_USER\App_User_Home\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\Src\C#\APP_USER\App_User_Home\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+F:\Coding\Src\C#\APP_USER\App_User_Home\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+F:\Coding\Src\C#\APP_USER\App_User_Home\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+F:\Coding\Src\C#\APP_USER\App_User_Home\Domain\obj\Debug\net5.0\Domain.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Domain\obj\Debug\net5.0\ref\Domain.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Domain\obj\Debug\net5.0\Domain.pdb

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Coding\\Src\\C#\\APP_USER\\App_User_Home\\Domain\\Domain.csproj": {}
+  },
+  "projects": {
+    "F:\\Coding\\Src\\C#\\APP_USER\\App_User_Home\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Coding\\Src\\C#\\APP_USER\\App_User_Home\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "F:\\Coding\\Src\\C#\\APP_USER\\App_User_Home\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\chizie\\.nuget\\packages\\",
+        "outputPath": "F:\\Coding\\Src\\C#\\APP_USER\\App_User_Home\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chizie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

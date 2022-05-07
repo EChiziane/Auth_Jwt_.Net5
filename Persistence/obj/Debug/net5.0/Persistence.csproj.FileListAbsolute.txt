@@ -1,0 +1,15 @@
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\bin\Debug\net5.0\Persistence.deps.json
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\bin\Debug\net5.0\Persistence.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\bin\Debug\net5.0\Persistence.pdb
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\bin\Debug\net5.0\Domain.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\bin\Debug\net5.0\Domain.pdb
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\obj\Debug\net5.0\Persistence.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Persistence\obj\Debug\net5.0\Persistence.pdb

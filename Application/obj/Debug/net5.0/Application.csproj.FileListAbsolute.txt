@@ -1,0 +1,17 @@
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\bin\Debug\net5.0\Application.deps.json
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\bin\Debug\net5.0\Application.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\bin\Debug\net5.0\ref\Application.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\bin\Debug\net5.0\Application.pdb
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\obj\Debug\net5.0\Application.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\obj\Debug\net5.0\ref\Application.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\obj\Debug\net5.0\Application.pdb
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\bin\Debug\net5.0\Domain.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\bin\Debug\net5.0\Persistence.dll
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\bin\Debug\net5.0\Persistence.pdb
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\bin\Debug\net5.0\Domain.pdb
+F:\Coding\Src\C#\APP_USER\App_User_Home\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
